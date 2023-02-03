@@ -1,0 +1,33 @@
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCuy/TC0M4e6hLhg69jfeoXHYhRPLNHckn7ctlhCXHqfrsawEGSC+2yuzutDTjgh8yKfarmDExXj+7OwSLQjcgxSRytjy4u7m9vwObeVBpegB0BueVW/181kGEkb7yPvv0K+pX2Eqz5cODIYzSRxTBGApjgIIVyBHkgoLwLXGm34uJrHgkkYG89M694Pz9MEqrSyMBq3UJKFdmZF8Hg1o84YmLDFZGybf2/WHk7zsx6mN086YstDebOAmTyMKVfYHZchfqTwM2LV7pfbrFQHSc2W4ygGLotijr64AcnE+K4bkVOa5G53z7mtyzLuzsdTOdbbNly0T2SV/zl5/aoy269ZUdJagMBdeG4uS6Iq5Qnc/aCWdUT7bSgme4jwgP1BCs2JT5VHz8wzYfGuxxcYRF4vKI22tNaTH1fjA17uinuh9k2TMBMCb0GWUWUTCunLTh3ToKavaI14eIJHZf3ju0VRoSE/1wD9O/ySDP+k2na8UoMPrMHvEd7bKEswXaMl85Z+lDCHyw33NWAFGOi1XloHnU28gnrtPhnrRI0X4aRZRCfzB6L0Y8aTu8IXSZXyT5QrhLAGTTZZxhLBlfp4kfAIdPafpp+etoVClEpvSZGrh9z19owRQAuQpJb4pLtvQflhbijNxgbr606GW4vyV5IKVjB1UCzgQzfcazJDNVPAQ== ram.patil0304@gmail.com
+
+https://dzone.com/articles/top-20-git-commands-with-examples
+
+https://dzone.com/articles/top-20-git-commands-with-examples
+
+https://github.com/Python-group-5
+
+
+echo "# login_authority" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rambodisco/login_authority.git
+git push -u origin main
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rampatil2154/Git-Repo.git
+git push -u origin main
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rampatil2154/branching-tut.git
+git push -u origin main
+
